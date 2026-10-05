@@ -4,8 +4,7 @@
 Settu hér inn eigin texta um repository eins og hvert er innihaldið og höfundarnir
 Taktu út textann sem er leiðbeiningatexti frá kennara um verkefnið 
 -->
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 2 
+Þetta eru drög að lausn fyrir Verkefni 2 í HBV301G 2026 fyrir COS dæmið 
 
 Þessi mappa inniheldur skrár og sniðmát fyrir verkefni 2 
 
