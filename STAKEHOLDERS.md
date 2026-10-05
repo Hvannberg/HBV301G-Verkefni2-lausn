@@ -8,10 +8,14 @@ Greinið helstu hagsmunaaðila vörunnar. Notið töfluna til að lýsa hlutverk
 |---------------|--------|-------------------------------|:-----:|:-----:|
 | Starfsmenn fyrirtækisins | Notendur | Nota kerfið til að skoða matseðil, panta mat og fylgjast með stöðu pöntunar. | ++ | ++ |
 | Fyrirtækið sem rekur mötuneytið | Viðskiptavinur | Kaupir og innleiðir kerfið og hefur hag af því að bæta þjónustu og draga úr matarsóun. | ++ | ++ |
+| Stjórnendur fyrirtækisins | Annar hagsmunaaðili | Hafa hagsmuni af því að COS styðji við skilvirkni í starfsemi fyrirtækisins, m.a. með því að draga úr þeim tíma sem starfsmenn verja í að sækja máltíðir. | ++ | ++ |
 | Starfsfólk mötuneytis | Notendur | Starfsfólk mötuneytis getur búið til matseðla fyrir tiltekna daga og starfsmenn geta skoðað matseðla fyrir valinn dag. Matseðlar eru gerðir með hliðsjón af birgðastöðu mötuneytis. | + | ++ |
 | Sendlar | Notandi | Nota upplýsingar úr kerfinu til að sjá hvaða pantanir bíða afhendingar, hvert á að afhenda þær og hvenær. | + | + |
 | Mannauðsdeild | Annar hagsmunaaðili | Gætir hagsmuna starfsfólks og fyrirtækisins og hefur áhuga á að lausnin bæti þjónustu og ánægju starfsfólks. | + | + |
 | Vottunaraðilar fyrir grænar lausnir | Annar hagsmunaaðili | Hafa áhuga á áhrifum lausnarinnar á matarsóun og sjálfbærni mötuneytisins. | o | + |
+| Öryggisstjóri fyrritækisins| Annar hagsmunaaðili | Ber ábyrgð á upplýsingatækniöryggi fyrirtækisins og hefur hagsmuni af því að aðgangur að COS og auðkenning notenda uppfylli öryggiskröfur fyrirtækisins.| o | + |
+| Starfsfólk launadeildar  |  Kostnaðarfærslur fyrir mat dragast frá launum starfsmanns. Einstaka sinnum gæti starfsmaður tilkynnt um rangar færslur við launadeild sem þarf þá að vísa til mötuneytis sem sendir leiðréttingafærslu. | o | + |
+
 
 `++` = mikil, `+` = nokkur, `o` = hlutlaus/lítil, `-` = neikvæð.
 
